@@ -176,7 +176,7 @@ Las contribuciones son bienvenidas. Para contribuir:
 ## 👨‍💻 Autor
 
 **Danilo Coronel**
-- GitHub: [@tu-usuario](https://github.com/Danilocb25)
-- LinkedIn: [Tu LinkedIn](https://linkedin.com/danilo-coronelb/)
+- GitHub: [@Danilocb25](https://github.com/Danilocb25)
+- LinkedIn: [https://linkedin.com/danilo-coronelb/](https://linkedin.com/danilo-coronelb/)
 
 
